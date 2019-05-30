@@ -122,8 +122,40 @@ The Royal Society Corpus (3)
 The Royal Society Corpus (4)
 
 ## March 7th
-No meeting - Spring Break
+SPRING BREAK - NO MEETING
 
+## March 14th
+The Royal Society Corpus (5)
 
+## March 21th
+The Royal Society Corpus (6)
 
+## March 28th
+The Royal Society Corpus (7)
 
+## April 4th
+The Royal Society Corpus (8)
+
+## April 11th
+The Royal Society Corpus (9)
+
+## April 18th
+The Royal Society Corpus (10)
+
+## April 25th
+The Royal Society Corpus (11)
+
+## May 2nd
+The Royal Society Corpus (12)
+
+## May 9th (final meeting of the semester)
+The Royal Society Corpus (13)
+
+## May 16 (final final meeting of the semester)
+Recap and discussion of Summer plans
+
+## May 23
+Topic modeling with the Royal Society Corpus and discussion of possible summer projects
+
+## May 30
+Bring in python code to troubleshoot with the group or projects to collaborate on
